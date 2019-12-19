@@ -1,0 +1,6 @@
+# Creating the Banner
+## Color Scheme
+#0066ff
+#99ccff
+#0099cc
+#33ccff
